@@ -7,7 +7,7 @@ let tel = prompt("Telefon raqamingizni kiriting : ");
 document.write("Sizning ismingiz : " + firstName + `<br>`);
 document.write("Sizning yoshingiz : " + age + `<br>`);
 document.write("Sizning raqamingiz : " + tel + `<br>`);
-document.write(firstName + " siz " + adress + "da yashaysiz" + `<br>`);
+document.write(firstName + " siz " + adress + "da yashaysiz     " + `<br>`);
 document.write("Consoleda Archa bor 😎🍀");
 
 console.log(
